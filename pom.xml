@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>web-application Maven Webapps</name>
-  <url>http://localhost:8280/manager/text/list</url>
+  <url>http://localhost:8080/manager/text/list</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
